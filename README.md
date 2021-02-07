@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ypratham0014@gmail.com**
 
-<img align="right" width="50%" src="https://i.ibb.co/n805xZB/undraw-open-source-1qxw-removebg-preview.png" alt="undraw-open-source-1qxw-removebg-preview" border="0">
+<img align="right" width="50%" src=<img src="https://i.ibb.co/4m6Nb8N/First-Vector-Holographic-Computer-Man.png" alt="vector-image" border="0">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
