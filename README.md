@@ -54,7 +54,7 @@
  <details open>
   <summary> Waka Time Stats : </summary>
   <br>
-  <img src="https://github.com/ypratham/ypratham/blob/main/images/stat.svg" alt="Pratham Waka Time Status"/>
+  <!--START_SECTION:waka--><!--END_SECTION:waka-->
  </details>
   
 
