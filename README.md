@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Pratham Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Python, Java**
+- :computer: Currently working on **Website, Discord Bot**
+
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Front-end web development, I can help you with what I know and learn new things with you.**
 
