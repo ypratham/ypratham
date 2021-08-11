@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Pratham Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- :computer: Currently working on **Website, Discord Bot**
+- :computer: Currently working as a **Intern**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Android Studio, MERN Stack**
 
-- 💬 Ask me about **Front-end web development, I can help you with what I know and learn new things with you.**
+- 💬 Ask me about **Full-Stack Development, I can help you with what I know and learn new things with you.**
 
 - 📫 How to reach me **ypratham0014@gmail.com**
 
