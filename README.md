@@ -31,6 +31,9 @@
     <li> Java </li> 
     <li> Python </li>
     <li> React </li>
+    <li> MongoDB </li>
+    <li> Express </li>
+    <li> NodeJs </li>
   </ul>
 </details>
  <details open>
