@@ -14,8 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/pratham_0014" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pratham_0014" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pyadav5000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pyadav5000" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pyadav5000" target="blank"><img align="center" src="https://i.ibb.co/4ggQWHL/Linked-In-Icon.png" alt="pyadav5000" height="30" width="30" /></a>
+<a href="https://instagram.com/pratham_0014" target="blank"><img align="center" src="https://i.ibb.co/hsqptbP/Instagram-Icon.png" alt="pratham_0014" height="30" width="30" /></a>
+
 </p>
 
 <p align="left"> 
@@ -34,6 +35,7 @@
     <li> MongoDB </li>
     <li> Express </li>
     <li> NodeJs </li>
+    <li> PHP </li>
   </ul>
 </details>
  <details open>
