@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **ypratham0014@gmail.com**
 
-<img align="right" width="50%" src="https://i.ibb.co/4m6Nb8N/First-Vector-Holographic-Computer-Man.png" alt="vector-image" border="0">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
