@@ -10,11 +10,10 @@
 
 - 📫 How to reach me **ypratham0014@gmail.com**
 
-<img align="right" width="50%" src="https://i.ibb.co/4m6Nb8N/First-Vector-Holographic-Computer-Man.png" alt="vector-image" border="0">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/pyadav5000" target="blank"><img align="center" src="https://i.ibb.co/4ggQWHL/Linked-In-Icon.png" alt="pyadav5000" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/pyadav5000" target="blank"><img align="center" src="https://i.ibb.co/4ggQWHL/Linked-In-Icon.png" alt="pyadav5000" height="30" width="30" style="margin: 10px" /></a>
 <a href="https://instagram.com/pratham_0014" target="blank"><img align="center" src="https://i.ibb.co/hsqptbP/Instagram-Icon.png" alt="pratham_0014" height="30" width="30" /></a>
 
 </p>
