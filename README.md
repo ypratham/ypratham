@@ -74,8 +74,6 @@
   [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ypratham&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
  </details>
----
-
 
 <p align="center">
     <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>    
