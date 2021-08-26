@@ -1,5 +1,7 @@
 [![ProfileBanner](https://github.com/ypratham/ypratham/blob/main/Images/GitHub%20Banner.png)](https://github.com/ypratham)
-<h1 align="center">Hi 👋, I'm Pratham Yadav</h1>
+
+
+# The name is Pratham Yadav - aka [ypratham](www.ypratham.me)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - :computer: Currently working as a **Intern**
@@ -18,7 +20,6 @@
 
 </p>
 
-<p align="left"> 
 <details open>
   <summary> Languages : </summary>
 <br>
@@ -48,7 +49,7 @@
   <li> Adobe Premier Pro </li>
   </ul>
 </details>
-</p>
+
 <details open>
   <summary> Hackathon : </summary>
   <br>
@@ -58,9 +59,26 @@
   </ul>
  </details>
  <details open>
-  <summary> Waka Time Stats : </summary>
+  <summary> Wakatime </summary>
   <br>
-  <!--START_SECTION:waka--><!--END_SECTION:waka-->
+  
+  [![Pratham's stats](https://github-readme-stats.vercel.app/api/wakatime?username=ypratham)](https://github.com/anuraghazra/github-readme-stats)
+
  </details>
   
+   <details open>
+  <summary> Summary </summary>
+  <br>
+  
+  [![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ypratham&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+ </details>
+---
+
+
+<p align="center">
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>    
+</p>
+
+
 
