@@ -1,8 +1,9 @@
 [![ProfileBanner](https://github.com/ypratham/ypratham/blob/main/Images/GitHub%20Banner.png)](https://github.com/ypratham)
 
 
-# The name is Pratham Yadav - aka [ypratham](www.ypratham.me)
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"> The name is Pratham Yadav - aka <a href="www.ypratham.me">ypratham</a></h1> 
+
+<h3 align="center">A passionate developer from India</h3>
 
 - :computer: Currently working as a **Intern**
 
