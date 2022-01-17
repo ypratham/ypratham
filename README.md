@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Android Studio, React Native**
 
-- 💬 Ask me about **Full-Stack Development, I can help you with what I know and learn new things with you.**
+- 💬 Ask me about **Full-Stack Development, I can help you with what I know**
 
 ----
 
