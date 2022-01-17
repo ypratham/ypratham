@@ -17,14 +17,14 @@
 <p align="left">
 <a href="https://www.hackerrank.com/pyadav5000" target="blank">
 
-<img src="https://img.shields.io/badge/LinkedIn-social-blue?logo=linkedin&style=social" /> 
+<img src="https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=social" /> 
  
   
 </a>
-<a href="https://instagram.com/pratham_0014" target="blank"><img src="https://img.shields.io/badge/Instagram-social-blue?logo=instagram&style=social" /></a>
+<a href="https://instagram.com/pratham_0014" target="blank"><img src="https://img.shields.io/badge/Instagram--blue?logo=instagram&style=social" /></a>
 
 </a>
-<a href="mailto:ypratham0014@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-mail-blue?logo=gmail&style=social" /></a>
+<a href="mailto:ypratham0014@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail--blue?logo=gmail&style=social" /></a>
 
 </p>
 
@@ -78,7 +78,7 @@
  </details>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=for-the-badge&logo=github"/>    
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=flat&logo=github"/>    
 </p>
 
 
