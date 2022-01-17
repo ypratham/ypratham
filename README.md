@@ -1,7 +1,7 @@
 [![ProfileBanner](https://github.com/ypratham/ypratham/blob/main/Images/GitHub%20Banner.png)](https://github.com/ypratham)
 
 
-<h1 align="center"> Hi I am Pratham Yadav 👋🏻</h1> 
+#### Hey, I'm Pratham Yadav! ✌️ 
 
 <h3 align="center">A passionate developer from India</h3>
 
@@ -13,7 +13,7 @@
 
 ----
 
-<h4 align="left">Let's meet on :</h4>
+<h4 align="left">Find me elsewhere 🌐 :</h4>
 <p align="left">
 <a href="https://www.hackerrank.com/pyadav5000" target="blank">
 
