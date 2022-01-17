@@ -78,7 +78,7 @@
  </details>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20❤%EF%B8%8F-informational?style=flat&logo=github"/>    
+    <img src="https://img.shields.io/badge/THANKS%20FOR-VISITING%20%EF%B8%8F-informational?style=flat&logo=github"/>    
 </p>
 
 
