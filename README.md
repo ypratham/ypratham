@@ -17,14 +17,14 @@
 <p align="left">
 <a href="https://www.hackerrank.com/pyadav5000" target="blank">
 
-<img src="https://img.shields.io/badge/LinkedIn-social-blueviolet?logo=linkedin&style=social" /> 
+<img src="https://img.shields.io/badge/LinkedIn-social-blue?logo=linkedin&style=social" /> 
  
   
 </a>
-<a href="https://instagram.com/pratham_0014" target="blank"><img src="https://img.shields.io/badge/Instagram-social-blueviolet?logo=instagram&style=social" /></a>
+<a href="https://instagram.com/pratham_0014" target="blank"><img src="https://img.shields.io/badge/Instagram-social-blue?logo=instagram&style=social" /></a>
 
 </a>
-<a href="mailto:ypratham0014@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-mail-blueviolet?logo=gmail&style=social" /></a>
+<a href="mailto:ypratham0014@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-mail-blue?logo=gmail&style=social" /></a>
 
 </p>
 
@@ -32,25 +32,25 @@
 <details open>
   <summary> 🛠️ Tools and Languages : </summary>
 <br>
-  <img src="https://img.shields.io/badge/code-Front--end-blueviolet" /> 
+  <img src="https://img.shields.io/badge/code-Front--end-blue" /> 
 
-  <img src="https://img.shields.io/badge/code-C/C++-blueviolet" /> 
+  <img src="https://img.shields.io/badge/code-C/C++-blue" /> 
 
-  <img src="https://img.shields.io/badge/code-Java-blueviolet" /> 
+  <img src="https://img.shields.io/badge/code-Java-blue" /> 
 
-  <img src="https://img.shields.io/badge/code-Python-blueviolet" /> 
+  <img src="https://img.shields.io/badge/code-Python-blue" /> 
 
-  <img src="https://img.shields.io/badge/code-Back--end-blueviolet" /> 
+  <img src="https://img.shields.io/badge/code-Back--end-blue" /> 
 
-  <img src="https://img.shields.io/badge/tools-Blender-blueviolet" /> 
+  <img src="https://img.shields.io/badge/tools-Blender-blue" /> 
 
-  <img src="https://img.shields.io/badge/tools-Illustrator-blueviolet" /> 
+  <img src="https://img.shields.io/badge/tools-Illustrator-blue" /> 
 
-  <img src="https://img.shields.io/badge/tools-Photoshop-blueviolet" /> 
+  <img src="https://img.shields.io/badge/tools-Photoshop-blue" /> 
 
-  <img src="https://img.shields.io/badge/tools-Primer Pro-blueviolet" /> 
+  <img src="https://img.shields.io/badge/tools-Primer Pro-blue" /> 
 
-  <img src="https://img.shields.io/badge/editor-VS Code-blueviolet" /> 
+  <img src="https://img.shields.io/badge/editor-VS Code-blue" /> 
 
 
 
