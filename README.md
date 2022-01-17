@@ -1,13 +1,13 @@
 [![ProfileBanner](https://github.com/ypratham/ypratham/blob/main/Images/GitHub%20Banner.png)](https://github.com/ypratham)
 
 
-#### Hey, I'm Pratham Yadav! ✌️ 
+## Hey, I'm Pratham Yadav! ✌️ 
 
-<h3 align="center">A passionate developer from India</h3>
+<h3>A passionate developer from India</h3>
 
-- :computer: Currently working as a **Intern**
+- :computer: Currently working on a **React Native Project**
 
-- 🌱 I’m currently learning **Android Studio, MERN Stack**
+- 🌱 I’m currently learning **Android Studio, React Native**
 
 - 💬 Ask me about **Full-Stack Development, I can help you with what I know and learn new things with you.**
 
