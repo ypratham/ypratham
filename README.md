@@ -1,21 +1,24 @@
 [![ProfileBanner](https://github.com/ypratham/ypratham/blob/main/Images/GitHub%20Banner.png)](https://github.com/ypratham)
 
 
-## Hey, I'm Pratham Yadav! ✌️ 
+Welcome to my profile! :)
+==============================
 
-<h3>A passionate developer from India</h3>
+Software Developer | Tech Enthusiast
+------------------------------------
 
-- :computer: Currently working on a **React Native Project**
+Passionate full stack developer with 3+ years of experience building user-centric software solutions. Driven by a vision to leverage AI for real-world impact. Experience in both freelance and corporate environments. Open to exciting opportunities!
 
-- 🌱 I’m currently learning **Android Studio, React Native**
+* 🌍  I'm based in Mumbai, India
+* 🖥️  See my portfolio at [ypratham.is-a.dev](http://ypratham.is-a.dev)
+* ✉️  You can contact me at [yprathamcode@gmail.com](mailto:yprathamcode@gmail.com)
 
-- 💬 Ask me about **Full-Stack Development, I can help you with what I know**
+------------------------------------
 
-----
 
 <h4 align="left">Find me elsewhere 🌐 :</h4>
 <p align="left">
-<a href="https://www.hackerrank.com/pyadav5000" target="blank">
+<a href="https://www.linkedin.com/in/ypratham/" target="_blank">
 
 <img src="https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&style=social" /> 
  
